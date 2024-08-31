@@ -1,0 +1,24 @@
+{
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "education": [
+        {
+            "year": "2018 - 2021",
+            "degree": "BSc in Fashion Design & Technology (FDT)",
+            "institution": "BGMEA University of Fashion & Technology (BUFT)"
+        }
+    ],
+    "skills": [
+        {
+            "name": "PHP",
+            "percentage": 85
+        },
+        {
+            "name": "MySQL",
+            "percentage": 75
+        },
+        {
+            "name": "Laravel",
+            "percentage": 70
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projects": [
+        {
+            "id": 1,
+            "title": "Minto - AI Resume Builder Case Study - UI/UX Design",
+            "category": "Mobile Application",
+            "image": "assets/images/projects/project-1.png",
+            "description": {
+                "first": "A comprehensive case study for Minto, an AI-powered resume builder designed to simplify the resume creation process. The project focuses on developing a user-friendly interface and seamless user experience (UI/UX) to cater to diverse users, from job seekers to career coaches.",
+                "second": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vestibulum, orci et egestas suscipit, est odio fermentum orci, eget vulputate nisl augue et urna. Suspendisse potenti. Nam lacinia nunc magna, id interdum nulla facilisis in. Donec elementum malesuada augue, non convallis turpis. Cras auctor suscipit arcu sit amet dapibus. Fusce a ultricies ligula, ac bibendum sem. Duis imperdiet dolor vel felis viverra, sed scelerisque justo ultricies. Nulla vitae metus id elit viverra posuere. Vivamus quis orci et velit pharetra tincidunt. Sed ultrices orci at ante malesuada efficitur."
+            }
+        },
+        {
+            "id": 2,
+            "title": "Crypto & Stocks Wallet - UI/UX | Mobile App",
+            "category": "Mobile Application",
+            "image": "assets/images/projects/project-2.png",
+            "description": {
+                "first": "An innovative mobile app designed for managing cryptocurrencies and stocks. This project emphasizes intuitive UI/UX design, allowing users to easily track their digital and traditional assets, view market trends, and make transactions securely and efficiently.",
+                "second": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu felis a libero ultricies congue. Etiam consequat risus at urna volutpat, at viverra justo malesuada. Mauris in malesuada dolor, nec vulputate purus. Fusce fermentum sapien sed ligula tincidunt faucibus. Curabitur dictum dui a risus fermentum, sit amet posuere metus ultricies. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque scelerisque tincidunt libero, in lacinia odio facilisis nec. Proin eu felis sit amet elit pharetra fringilla vel nec sem."
+            }
+        },
+        {
+            "id": 3,
+            "title": "E-commerce Dashboard Case Study Application",
+            "category": "Mobile Application",
+            "image": "assets/images/projects/project-3.png",
+            "description": {
+                "first": "A UI/UX case study for developing an e-commerce management dashboard. The project aims to provide business owners with a centralized platform to monitor sales, inventory, customer behavior, and other key performance indicators (KPIs) in real-time.",
+                "second": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vulputate magna a risus placerat, nec fermentum mi hendrerit. Nulla convallis urna at urna aliquam, in congue metus sodales. Phasellus vitae neque ut magna blandit laoreet. Nullam facilisis ultricies neque. Ut id ultricies dolor, ut fermentum nisi. Suspendisse id dolor vitae nisi tempor interdum. Phasellus convallis magna non suscipit vulputate. Curabitur ac lectus vitae lorem tempor varius. Integer auctor, nulla sit amet elementum commodo, lacus risus accumsan lorem, in gravida arcu erat id felis."
+            }
+        },
+        {
+            "id": 4,
+            "title": "Pry Finance CRM - Mobile App & UX/UI Design",
+            "category": "Mobile Application",
+            "image": "assets/images/projects/project-4.png",
+            "description": {
+                "first": "A mobile app and UX/UI design project for Pry Finance, a customer relationship management (CRM) tool tailored to the financial sector. The app is designed to enhance user engagement and streamline customer interactions, providing tools for managing client portfolios, communications, and analytics.",
+                "second": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Proin consequat, arcu nec malesuada fermentum, metus metus vulputate purus, a convallis mauris felis vitae nisi. Vivamus pharetra vehicula nisl. In sed orci vel ligula varius bibendum nec sed mauris. Suspendisse potenti. Nunc fringilla ullamcorper velit, eget pharetra lacus aliquam a. Donec mollis ipsum non tincidunt posuere. Quisque commodo lorem vel justo vehicula, nec varius risus lacinia."
+            }
+        },
+        {
+            "id": 5,
+            "title": "Citisum - Real Estate Dashboard Design Application",
+            "category": "Mobile Application",
+            "image": "assets/images/projects/project-5.png",
+            "description": {
+                "first": "A mobile dashboard application for real estate management, focusing on data visualization and user-friendly design. The project aims to simplify the process of property management, client tracking, and market analysis for real estate agents and agencies.",
+                "second": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae orci a urna pharetra malesuada ut vel felis. Aenean sollicitudin ex at libero blandit suscipit. Pellentesque nec metus ut odio viverra tempus non ac augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris ullamcorper magna eu ligula vehicula convallis. Nulla facilisi. Aenean consectetur eros vel libero pellentesque, non blandit orci malesuada. Morbi et libero sit amet metus aliquam fermentum et ut metus."
+            }
+        },
+        {
+            "id": 6,
+            "title": "SmartLock - Branding & Smart Home UX/UI Design",
+            "category": "Mobile Application",
+            "image": "assets/images/projects/project-6.png",
+            "description": {
+                "first": "A branding and UX/UI design project for SmartLock, a smart home security solution. The app integrates seamlessly with smart home devices, providing users with an easy-to-use interface for managing locks, monitoring security, and receiving alerts in real-time. \n\n",
+                "second": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id ligula a eros dictum fermentum et sed urna. Nulla facilisi. Sed consectetur est ut massa facilisis convallis. Vestibulum quis felis non odio cursus pellentesque. Curabitur euismod, sapien et aliquam bibendum, ligula lacus vehicula quam, in gravida libero purus et enim. Nullam lobortis arcu non libero tristique, in dictum erat aliquam. Nam eget ligula sapien. Integer sit amet ex vel eros facilisis iaculis. Sed dictum scelerisque magna, vel cursus magna venenatis id."
+            }
+        }
+    ]
+}
