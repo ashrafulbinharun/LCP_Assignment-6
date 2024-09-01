@@ -1,44 +1,42 @@
 # Getting Started
 
-It's super easy to setup.
+Follow these steps to set up the project:
 
-First, clone the project and change the directory
+1. **Clone the repository and navigate to the directory:**
 
-```shell
-git clone git@github.com:ashrafulbinharun/LCP_Assignment-6.git
-cd LCP_Assignment-6
-```
+    ```shell
+    git clone git@github.com:ashrafulbinharun/LCP_Assignment-6.git
+    cd LCP_Assignment-6
+    ```
 
-Then follow the process.
+2. **Install the dependencies:**
 
-1. Install the dependencies
+    ```shell
+    composer install
+    npm install
+    ```
 
-```shell
-composer install
-npm install
-```
+3. **Create the environment file:**
 
-2. Copy `.env.example` to `.env`
+    ```shell
+    cp .env.example .env
+    ```
 
-```shell
-cp .env.example .env
-```
+4. **Generate the application key:**
 
-3. Generate application key
+    ```shell
+    php artisan key:generate
+    ```
 
-```shell
-php artisan key:generate
-```
+5. **Run the database migrations:**
 
-4. Run the migration
+    ```shell
+    php artisan migrate
+    ```
 
-```shell
-php artisan migrate
-```
+6. **Start the development server:**
 
-5. Start the webserver
-
-```shell
-nmp run dev
-php artisan serve
-```
+    ```shell
+    npm run dev
+    php artisan serve
+    ```
