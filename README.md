@@ -30,7 +30,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-1. Run the migration
+4. Run the migration
 
 ```shell
 php artisan migrate
